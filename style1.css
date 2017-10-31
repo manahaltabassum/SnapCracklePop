@@ -1,0 +1,34 @@
+html{
+    background: url(stars.jpg);
+    background-size: cover;
+}
+
+body{
+    font-family: verdana,geneva,sans-serif;
+    text-align: center;
+    font-size: 15px;
+    color: #ccff99;
+}
+
+h1{
+    font-weight: bold;
+    color: #0066ff;
+    text-align: center;
+    font-size: 60px;
+}
+
+ul{
+    text-align: left;
+    color: #ff66cc;
+    font-size: 20px;
+}
+
+h2{
+    text-align: center;
+    font-size: 40px;
+    color: #cc00cc;
+}
+
+h3{
+    color: #ff0066;
+}

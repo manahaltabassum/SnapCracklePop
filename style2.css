@@ -1,0 +1,67 @@
+html{
+    background: url(galaxy.jpg);
+    background-size: cover;
+}
+
+body{
+    font-family: verdana,geneva,sans-serif;
+    text-align: center;
+    font-size: 15px;
+    color: #ffcc00;
+}
+
+p{
+    border: 5px #ff9999 solid;
+    background-color: black;
+    padding: 5px;
+    color: #ffe6ff;
+}
+
+h1{
+    border: 5px #ff9999 solid;
+    background-color: black;
+    padding: 20px;
+    font-weight: bold;
+    color: #cc3300;
+    text-align: center;
+    font-size: 60px;
+}
+
+li{
+    color: #cc0000;
+}
+
+a:visited{
+    color: #cc0000;
+}
+
+a:link{
+    color: #0099ff;
+}
+
+ul{
+    list-style-type: none;
+    text-align: left;
+    color: #ff66cc;
+    font-size: 20px;
+    border: 5px #ff9999 solid;
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    font-size: 40px;
+    color: #ff6666;
+    border: 5px #ff9999 solid;
+    background-color: black;
+    padding: 10px;
+}
+
+h3{
+    border: 5px #ff9999 solid;
+    background-color: black;
+    padding: 5px;
+    color: #ccffff;
+}
