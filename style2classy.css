@@ -1,0 +1,52 @@
+html{
+    background-color: white;
+}
+
+body{
+    border: 10px double #801C0F;
+    border-radius: 5px;
+    font-family: verdana,geneva,sans-serif;
+    text-align: center;
+    font-size: 15px;
+    color: #7DC3B8;
+    position: fixed;
+    top: 10%;
+    left: 10%;
+    right: 10%;
+    bottom: 10%;
+}
+
+.extreme{
+    font-size: 10px;
+    color: #BEE092;
+}
+
+#head1{
+    font-size: 20px;
+}
+
+.navzone{
+    font-style: italic;
+    color: #EE9B4B;
+}
+
+ul{
+    text-align: center;
+    list-style-type: none;
+}
+
+a:visited{
+    color: olive;
+}
+
+a:link{
+    color: teal;
+}
+
+.content{
+    color: #CA4F3F;
+}
+
+.prose{
+    color: #F3D460;
+}

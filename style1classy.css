@@ -1,0 +1,43 @@
+html{
+    background-color: white;
+    border: 20px double #FFF6B9;
+    border-radius: 10px;
+}
+
+body{
+    font-family: verdana,geneva,sans-serif;
+    text-align: center;
+    font-size: 15px;
+    color: #ffcc00;
+}
+
+.extreme{
+    font-size: 20px;
+    color: #B1645B;
+}
+
+.navzone{
+    font-style: italic;
+    color: #F79273;
+}
+
+ul{
+    text-align: center;
+    list-style-type: none;
+}
+
+a:visited{
+    color: olive;
+}
+
+a:link{
+    color: teal;
+}
+
+.content{
+    color: #FDC08E;
+}
+
+.prose{
+    color: #99D1B7;
+}

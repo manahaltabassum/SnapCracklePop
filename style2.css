@@ -11,16 +11,16 @@ body{
 }
 
 p{
-    border: 5px #ff9999 solid;
+    border: 5px goldenrod solid;
     background-color: black;
     padding: 5px;
     color: #ffe6ff;
 }
 
 h1{
-    border: 5px #ff9999 solid;
+    border: 5px goldenrod solid;
     background-color: black;
-    padding: 20px;
+    padding: 5px;
     font-weight: bold;
     color: #cc3300;
     text-align: center;
@@ -41,12 +41,11 @@ a:link{
 
 ul{
     list-style-type: none;
-    text-align: left;
     color: #ff66cc;
     font-size: 20px;
-    border: 5px #ff9999 solid;
+    border: 5px goldenrod solid;
     background-color: black;
-    padding: 10px;
+    padding: 5px;
     text-align: center;
 }
 
@@ -54,13 +53,13 @@ h2{
     text-align: center;
     font-size: 40px;
     color: #ff6666;
-    border: 5px #ff9999 solid;
+    border: 5px goldenrod solid;
     background-color: black;
-    padding: 10px;
+    padding: 5px;
 }
 
 h3{
-    border: 5px #ff9999 solid;
+    border: 5px goldenrod solid;
     background-color: black;
     padding: 5px;
     color: #ccffff;
