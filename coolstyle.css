@@ -1,0 +1,36 @@
+body{
+    background-image: url("giphy.gif");
+    background-size: cover;
+    font-family: arial;
+    text-align: center;
+}
+
+.heading{
+    font-stretch: expanded;
+    font-size: 20px;
+    color: #8D3B72;
+    border: 5px double;
+    border-color: #9B7EDE;
+}
+
+li{
+    list-style-type: none;
+    font-size: 20px;
+}
+
+a:link{
+    color:#0582CA;
+}
+
+a:visited{
+    color:#119DA4;
+}
+
+a:hover{
+    background-color:#5EC2B7;
+}
+
+.info{
+    font-size: 15px;
+    color: black;
+}
